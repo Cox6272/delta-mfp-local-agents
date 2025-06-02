@@ -5,3 +5,4 @@ node_modules/
 *.log
 .venv/
 __pycache__/
+.pytest_cache/
